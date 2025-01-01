@@ -1,18 +1,20 @@
 class Solution {
 public:
     int maxScore(string s) {
-        int left = 0, right = s.length() - 1;
-        int maxCnt = 0;
-        for(int i = left; i < right; i++){
-            int cnt = 0;
-            for(int j = left; j <= i; j++){
-                if(s[j] == '0') cnt++;
+        int ones = count(s.begin(), s.end(), '1');
+        
+        int ans = 0;
+        int zeros = 0;
+        for (int i = 0; i < s.size() - 1; i++) {
+            if (s[i] == '1') {
+                ones--;
+            } else {
+                zeros++;
             }
-            for(int j = i + 1; j <= right; j++){
-                if(s[j] == '1') cnt++;
-            }
-            maxCnt = max(maxCnt, cnt);
+            
+            ans = max(ans, zeros + ones);
         }
-        return maxCnt;
+        
+        return ans;
     }
 };
