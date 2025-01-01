@@ -1,20 +1,24 @@
 class Solution {
 public:
     int maxScore(string s) {
-        int ones = count(s.begin(), s.end(), '1');
-        
-        int ans = 0;
+        int ones = 0;
         int zeros = 0;
+        int best = INT_MIN;
+
         for (int i = 0; i < s.size() - 1; i++) {
             if (s[i] == '1') {
-                ones--;
+                ones++;
             } else {
                 zeros++;
             }
             
-            ans = max(ans, zeros + ones);
+            best = max(best, zeros - ones);
         }
         
-        return ans;
+        if (s[s.size() - 1] == '1') {
+            ones++;
+        }
+        
+        return best + ones;
     }
 };
