@@ -1,22 +1,34 @@
 class Solution {
 public:
-    vector<int> vowelStrings(vector<string>& words, vector<vector<int>>& queries) {
-        string str, vowels = "aeiou";
-        vector<int> prefix(1, 0), ans;
-        int sum = 0, n = words.size();
+    bool isVowel(char ch) {
+        if(ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u')
+            return true;
+        return false;
+    }
         
-        for(int i = 0; i < n; i++){
-            str = words[i];
-            if(vowels.find(str[0]) != -1 && vowels.find(str.back()) != -1)
-                sum += 1;
-            prefix.push_back(sum);
+    vector<int> vowelStrings(vector<string>& words, vector<vector<int>>& queries) {
+        int n = words.size();
+        vector<int> dp(n, 0);
+
+        if(isVowel(words[0][0]) && isVowel(words[0][words[0].size() - 1]))
+            dp[0] = 1;
+        
+        for(int i = 1; i < n; i++) {
+            int len = words[i].size();
+            if(isVowel(words[i][0]) && isVowel(words[i][len - 1]))
+                dp[i] = dp[i - 1] + 1;
+            else
+                dp[i] = dp[i - 1];
         }
 
-        for(auto v : queries){
-            int left = v[0], right = v[1];
-            ans.push_back(prefix[right + 1] - prefix[left]);
-        }
+        vector<int> ans;
 
-        return ans;
+        for(int i = 0; i < queries.size(); i++){
+            if(queries[i][0] == 0)
+                ans.push_back(dp[queries[i][1]]);
+            else
+                ans.push_back(dp[queries[i][1]] - dp[queries[i][0] - 1]); 
+        }
+        return ans; 
     }
 };
