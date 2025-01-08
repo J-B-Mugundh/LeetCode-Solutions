@@ -136,6 +136,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3534-count-almost-equal-pairs-i](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/3534-count-almost-equal-pairs-i) |
 ## Greedy
 |  |
@@ -249,6 +250,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Tree
 |  |
@@ -373,8 +375,18 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0187-repeated-dna-sequences) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0187-repeated-dna-sequences) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Trie
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## String Matching
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
