@@ -124,6 +124,7 @@
 | [0621-task-scheduler](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0733-flood-fill) |
 | [0940-fruit-into-baskets](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0940-fruit-into-baskets) |
+| [0952-word-subsets](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0952-word-subsets) |
 | [1014-k-closest-points-to-origin](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1046-max-consecutive-ones-iii) |
@@ -202,6 +203,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0621-task-scheduler) |
 | [0940-fruit-into-baskets](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0940-fruit-into-baskets) |
+| [0952-word-subsets](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0952-word-subsets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1256-rank-transform-of-an-array](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1256-rank-transform-of-an-array) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -246,6 +248,7 @@
 | [0187-repeated-dna-sequences](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0187-repeated-dna-sequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0678-valid-parenthesis-string) |
+| [0952-word-subsets](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0952-word-subsets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
