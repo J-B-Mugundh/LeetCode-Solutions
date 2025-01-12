@@ -1,7 +1,8 @@
 class Solution {
 public:
+    // Intution from: https://leetcode.com/problems/valid-parenthesis-string/
     bool canBeValid(string s, string locked) {
-        if(s.size() % 2) return false;
+        if(s.size() & 1) return false;
         
         int openCount = 0;
         int closeCount = 0;
