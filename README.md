@@ -138,6 +138,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3534-count-almost-equal-pairs-i](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/3534-count-almost-equal-pairs-i) |
 ## Greedy
@@ -209,6 +210,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3534-count-almost-equal-pairs-i](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/3534-count-almost-equal-pairs-i) |
 ## Counting
@@ -366,6 +368,7 @@
 | [0187-repeated-dna-sequences](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0187-repeated-dna-sequences) |
 | [0260-single-number-iii](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0260-single-number-iii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Enumeration
 |  |
 | ------- |
