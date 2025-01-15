@@ -151,6 +151,7 @@
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1762-furthest-building-you-can-reach](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1762-furthest-building-you-can-reach) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2509-minimize-xor](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/2509-minimize-xor) |
 ## Sorting
 |  |
 | ------- |
@@ -368,6 +369,7 @@
 | [0187-repeated-dna-sequences](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0187-repeated-dna-sequences) |
 | [0260-single-number-iii](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0260-single-number-iii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2509-minimize-xor](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Enumeration
 |  |
