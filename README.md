@@ -137,6 +137,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/2358-number-of-ways-to-split-array) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -370,6 +371,7 @@
 | [0260-single-number-iii](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/0260-single-number-iii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/2509-minimize-xor) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Enumeration
 |  |
@@ -403,4 +405,8 @@
 | ------- |
 | [2292-counting-words-with-a-given-prefix](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/J-B-Mugundh/LeetCode-MySolutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
